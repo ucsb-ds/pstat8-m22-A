@@ -130,3 +130,7 @@ dmypy.json
 
 # Otter-Grader
 .OTTER_LOG
+
+.DS_Store
+.ipynb_checkpoints
+
